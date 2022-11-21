@@ -28,7 +28,7 @@ gem "jbuilder"
 # gem "bcrypt", "~> 3.1.7"
 
 
-# gem 'puma'
+gem 'faker'
 
 gem 'sass-rails'
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
